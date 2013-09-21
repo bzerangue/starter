@@ -2,7 +2,7 @@
 layout: blog
 category: blog
 published: true
-title: ""
+title: "Ready, set, go."
 ---
 
 It's a new day. I am trying Prose.io. **Let's** see how this works. 
