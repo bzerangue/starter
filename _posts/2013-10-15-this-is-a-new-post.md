@@ -1,8 +1,8 @@
 ---
 layout: blog
 category: blog
-published: false
-title: ""
+published: true
+title: This is a new post
 ---
 
 ## A New Post
